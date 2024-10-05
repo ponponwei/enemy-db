@@ -1,0 +1,6 @@
+{
+    "enemies": [
+        { "id": 1, "name": "rat" },
+        { "id": 2, "name": "freak of nature"}
+    ]
+}
